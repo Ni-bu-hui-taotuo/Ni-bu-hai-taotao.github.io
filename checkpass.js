@@ -17,7 +17,7 @@ function Click(){
     console.log(rawText,rawText.hashCode())
 
     if(rawText.hashCode() == "-2108395305"){
-        window.location = "https://kogollo52.github.io";
+        window.location = "https://view.genial.ly/63e3659dd1f4b6001891e7c2/presentation-presentacion-china";
     }
     else{
         alert("Incorrect Pass");
