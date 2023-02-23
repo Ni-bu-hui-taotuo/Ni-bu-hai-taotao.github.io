@@ -19,4 +19,7 @@ function Click(){
     if(rawText.hashCode() == "-2108395305"){
         window.location = "https://kogollo52.github.io"
     }
+    else{
+        alert("Incorrect Pass");
+    }
 }
